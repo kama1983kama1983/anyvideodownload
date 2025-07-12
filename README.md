@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` file for your GitHub repository that explains your universal video downloader script:
-
 ```markdown
 # Universal Video Downloader
 
