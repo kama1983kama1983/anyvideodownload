@@ -1,4 +1,3 @@
-```markdown
 # Universal Video Downloader
 
 A Python script to download videos from any supported website (YouTube, Dailymotion, Vimeo, etc.) with resolution selection.
